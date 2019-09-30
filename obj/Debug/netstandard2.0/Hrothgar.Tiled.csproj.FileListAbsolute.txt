@@ -1,0 +1,8 @@
+C:\Repo\Monogame\Hrothgar.Tiled\bin\Debug\netstandard2.0\Hrothgar.Tiled.deps.json
+C:\Repo\Monogame\Hrothgar.Tiled\bin\Debug\netstandard2.0\Hrothgar.Tiled.dll
+C:\Repo\Monogame\Hrothgar.Tiled\bin\Debug\netstandard2.0\Hrothgar.Tiled.pdb
+C:\Repo\Monogame\Hrothgar.Tiled\obj\Debug\netstandard2.0\Hrothgar.Tiled.csproj.CoreCompileInputs.cache
+C:\Repo\Monogame\Hrothgar.Tiled\obj\Debug\netstandard2.0\Hrothgar.Tiled.AssemblyInfoInputs.cache
+C:\Repo\Monogame\Hrothgar.Tiled\obj\Debug\netstandard2.0\Hrothgar.Tiled.AssemblyInfo.cs
+C:\Repo\Monogame\Hrothgar.Tiled\obj\Debug\netstandard2.0\Hrothgar.Tiled.dll
+C:\Repo\Monogame\Hrothgar.Tiled\obj\Debug\netstandard2.0\Hrothgar.Tiled.pdb
