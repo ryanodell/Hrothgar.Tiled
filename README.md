@@ -16,5 +16,7 @@ Then, you pass in the location of the file and it will parse this out.
 TiledMap map = tiledMapLoader.LoadMap("test.json");
 ```
 
-**Note**
-Currently, this does not load in geometry. This is only for reading basic map data. Does not currently support custom properties. It does support animation though.
+**Coming Soon**
+1) Support for loading geometry
+2) Support for loading custom properties
+3) Provide a way to identify a tiles global ID.
